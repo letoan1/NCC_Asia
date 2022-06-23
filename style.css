@@ -64,8 +64,9 @@
 .main__list {
 	display: flex;
 	justify-content: space-around;
-margin: 20px 100px;
+	margin: 20px 100px;
 	position: relative;
+	gap: 20px;
 }
 
 .clear {
